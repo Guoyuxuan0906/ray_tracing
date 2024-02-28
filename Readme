@@ -1,0 +1,5 @@
+test1: ppm格式文件输出
+test2: 用api接口的ppm格式文件输出
+test3: 引入camera,viewport,生成渐变色图片
+test4: 引入球体,没有考虑如果有负数根
+test5: 球体法线上色
