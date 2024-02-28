@@ -85,7 +85,7 @@ public:
 
     double length() const
     {
-        return InvSqrt64(length_squared());
+        return fast_sqrt64(length_squared());
     }
 };
 
