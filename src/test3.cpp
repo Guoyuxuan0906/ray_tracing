@@ -71,6 +71,6 @@ int main(){
     }
 
     clog<<"Done."<<endl;
-
+    outfile.close();
     return 0;
 }

@@ -4,3 +4,10 @@ test3: 引入camera,viewport,生成渐变色图片
 test4: 引入球体,没有考虑如果有负数根
 test5: 球体法线上色
 test6: 加入hit相关API
+test7: 加入camera相关API
+test8: 随机采样平均抗锯齿
+test9: 漫反射材质(自交问题)
+test10: 金属材质
+test11: 玻璃材质
+test12: 添加camera参数
+final_scene: 最终场景(自交问题还没有处理好)
